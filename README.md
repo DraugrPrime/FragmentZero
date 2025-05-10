@@ -1,5 +1,7 @@
-<p align="center">
-  <img src="https://github.com/DraugrPrime/FragmentZero/blob/main/banner-fragmentzero.png?raw=true" alt="FragmentZero banner" width="100%">
+<p align="center" style="margin-top: 20px; margin-bottom: 20px;">
+  <img src="https://github.com/DraugrPrime/FragmentZero/blob/main/banner-fragmentzero.png?raw=true" 
+       alt="FragmentZero GitHub banner — cinematic web storytelling engine by Draugr Prime" 
+       width="100%">
 </p>
 
 # FragmentZero — Cinematic Web Experience  
