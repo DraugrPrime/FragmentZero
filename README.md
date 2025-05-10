@@ -72,4 +72,4 @@ Hosted via Netlify | Optimized for desktop and mobile
 
 ---
 
-© 2025 Draugr Prime. All rights reserved.
+© 2025 DraugrPrime. All rights reserved.
