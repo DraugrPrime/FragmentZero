@@ -5,7 +5,7 @@
 </p>
 
 # FragmentZero — Cinematic Web Experience  
-*Crafted by Draugr Prime*
+*Crafted by DraugrPrime*
 
 Welcome to the official GitHub repository for **FragmentZero**, a fully custom-built cinematic storytelling website inspired by the aesthetic and emotional tone of *NieR: Automata*.  
 This project combines handcrafted HTML, CSS, and design principles to deliver a visually striking and emotionally immersive digital universe.
