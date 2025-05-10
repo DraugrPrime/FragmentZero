@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/DraugrPrime/FragmentZero/blob/main/banner-fragmentzero.png?raw=true" alt="FragmentZero banner" width="100%">
+</p>
+
 # FragmentZero — Cinematic Web Experience  
 *Crafted by Draugr Prime*
 
